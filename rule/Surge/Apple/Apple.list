@@ -24,13 +24,10 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,apple
-
 DOMAIN,apple.comscoreresearch.com
-
 DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,apple.com.akadns.net
-
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
